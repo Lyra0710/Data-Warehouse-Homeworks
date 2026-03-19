@@ -1,0 +1,5 @@
+FROM python:3.11-slim
+WORKDIR /app
+COPY hello_logic.py .
+COPY print_hello.py .
+CMD ["python", "print_hello.py"]
