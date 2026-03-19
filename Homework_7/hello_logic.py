@@ -1,6 +1,6 @@
 def print_hello():
-    print("hello! - 2026.02")
+    print("hello! - Ananya Yallapragada")
     return "hello!"
 def print_goodbye():
-    print("goodbye!")
+    print("goodbye! - Ananya Yallapragada")
     return "goodbye!"

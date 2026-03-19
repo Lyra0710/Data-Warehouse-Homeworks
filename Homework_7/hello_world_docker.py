@@ -6,7 +6,7 @@ from airflow.providers.docker.operators.docker import DockerOperator
 default_args = {
     'owner': 'ananya',
     'email': ['ananya.yallapragada@sjsu.edu'],
-    'AIRFLOW_UID': '${AIRFLOW_UID}',
+    
     'retries': 1,
     'retry_delay': timedelta(minutes=3),
 }
