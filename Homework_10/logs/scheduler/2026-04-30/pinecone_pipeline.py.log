@@ -1,0 +1,227 @@
+[2026-04-30T18:45:30.965+0000] {processor.py:186} INFO - Started process (PID=288) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:45:30.966+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:45:30.967+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:30.967+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:45:34.360+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:45:34.414+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.413+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:pinecone_pipeline
+[2026-04-30T18:45:34.416+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.416+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:pinecone_pipeline
+[2026-04-30T18:45:34.418+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.418+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:pinecone_pipeline
+[2026-04-30T18:45:34.419+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.419+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:pinecone_pipeline
+[2026-04-30T18:45:34.421+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.421+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:pinecone_pipeline
+[2026-04-30T18:45:34.422+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.422+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:pinecone_pipeline
+[2026-04-30T18:45:34.424+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.424+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:pinecone_pipeline
+[2026-04-30T18:45:34.424+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.424+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:45:34.431+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.431+0000] {dag.py:3252} INFO - Creating ORM DAG for pinecone_pipeline
+[2026-04-30T18:45:34.431+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:45:34.431+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:45:34.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 3.473 seconds
+[2026-04-30T18:46:04.742+0000] {processor.py:186} INFO - Started process (PID=334) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:46:04.743+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:46:04.746+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:46:04.745+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:46:06.954+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:46:06.963+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:46:06.963+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:46:06.967+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:46:06.967+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:46:06.972+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.237 seconds
+[2026-04-30T18:46:37.269+0000] {processor.py:186} INFO - Started process (PID=384) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:46:37.270+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:46:37.272+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:46:37.271+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:46:39.235+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:46:39.244+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:46:39.244+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:46:39.252+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:46:39.252+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:46:39.258+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.996 seconds
+[2026-04-30T18:47:09.588+0000] {processor.py:186} INFO - Started process (PID=412) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:47:09.589+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:47:09.591+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:47:09.591+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:47:12.043+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:47:12.063+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:47:12.063+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:47:12.067+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:47:12.067+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:47:12.072+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.489 seconds
+[2026-04-30T18:47:42.401+0000] {processor.py:186} INFO - Started process (PID=434) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:47:42.402+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:47:42.405+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:47:42.405+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:47:44.636+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:47:44.646+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:47:44.646+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:47:44.651+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:47:44.651+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:47:44.656+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.262 seconds
+[2026-04-30T18:48:14.993+0000] {processor.py:186} INFO - Started process (PID=456) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:48:14.994+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:48:14.997+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:14.997+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:48:17.485+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:48:17.552+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:17.551+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:48:17.558+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:17.558+0000] {dag.py:3252} INFO - Creating ORM DAG for pinecone_pipeline
+[2026-04-30T18:48:17.559+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:17.559+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:48:17.565+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.584 seconds
+[2026-04-30T18:48:47.924+0000] {processor.py:186} INFO - Started process (PID=478) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:48:47.926+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:48:47.929+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:47.929+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:48:50.088+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:48:50.099+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:50.099+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:48:50.104+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:48:50.104+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:48:50.110+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.195 seconds
+[2026-04-30T18:49:03.257+0000] {processor.py:186} INFO - Started process (PID=495) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:49:03.258+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:49:03.259+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:49:03.259+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:49:05.184+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:49:05.191+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:49:05.191+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:49:05.196+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:49:05.196+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:49:05.200+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.949 seconds
+[2026-04-30T18:49:35.395+0000] {processor.py:186} INFO - Started process (PID=517) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:49:35.396+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:49:35.397+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:49:35.397+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:49:37.427+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:49:37.436+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:49:37.436+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:49:37.441+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:49:37.441+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:49:37.446+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.057 seconds
+[2026-04-30T18:50:07.596+0000] {processor.py:186} INFO - Started process (PID=621) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:50:07.597+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:50:07.598+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:50:07.598+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:50:09.835+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:50:09.844+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:50:09.844+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:50:09.849+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:50:09.849+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:50:09.855+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.266 seconds
+[2026-04-30T18:50:40.079+0000] {processor.py:186} INFO - Started process (PID=649) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:50:40.080+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:50:40.081+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:50:40.081+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:50:41.965+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:50:41.972+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:50:41.972+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:50:41.976+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:50:41.976+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:50:41.981+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.910 seconds
+[2026-04-30T18:51:12.142+0000] {processor.py:186} INFO - Started process (PID=671) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:51:12.143+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:51:12.146+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:12.146+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:51:14.170+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:51:14.178+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:14.178+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:51:14.183+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:14.183+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:51:14.188+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.054 seconds
+[2026-04-30T18:51:44.455+0000] {processor.py:186} INFO - Started process (PID=693) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:51:44.456+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:51:44.458+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:44.458+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:51:46.707+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:51:46.742+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:46.742+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:51:46.748+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:46.747+0000] {dag.py:3252} INFO - Creating ORM DAG for pinecone_pipeline
+[2026-04-30T18:51:46.748+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:51:46.748+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:51:46.752+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.305 seconds
+[2026-04-30T18:58:27.040+0000] {processor.py:186} INFO - Started process (PID=288) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:58:27.040+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:58:27.041+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:58:27.041+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:58:30.236+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:58:30.278+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:58:30.278+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:58:30.284+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:58:30.284+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:58:30.291+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 3.254 seconds
+[2026-04-30T18:59:00.548+0000] {processor.py:186} INFO - Started process (PID=348) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:59:00.550+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:59:00.551+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:59:00.550+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:59:02.664+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:59:02.672+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:59:02.672+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:59:02.677+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:59:02.677+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:59:02.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.140 seconds
+[2026-04-30T18:59:32.722+0000] {processor.py:186} INFO - Started process (PID=437) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:59:32.722+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T18:59:32.724+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:59:32.723+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:59:35.043+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T18:59:35.056+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:59:35.056+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T18:59:35.064+0000] {logging_mixin.py:190} INFO - [2026-04-30T18:59:35.064+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T18:59:35.085+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.366 seconds
+[2026-04-30T19:00:05.409+0000] {processor.py:186} INFO - Started process (PID=503) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:00:05.412+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:00:05.417+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:00:05.416+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:00:07.713+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:00:07.726+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:00:07.726+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:00:07.730+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:00:07.730+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:00:07.735+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.337 seconds
+[2026-04-30T19:00:38.051+0000] {processor.py:186} INFO - Started process (PID=525) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:00:38.052+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:00:38.063+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:00:38.060+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:00:40.435+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:00:40.444+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:00:40.444+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:00:40.449+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:00:40.449+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:00:40.454+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.415 seconds
+[2026-04-30T19:01:10.800+0000] {processor.py:186} INFO - Started process (PID=547) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:01:10.801+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:01:10.804+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:01:10.803+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:01:13.083+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:01:13.093+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:01:13.092+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:01:13.097+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:01:13.097+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:01:13.108+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.321 seconds
+[2026-04-30T19:01:43.470+0000] {processor.py:186} INFO - Started process (PID=569) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:01:43.471+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:01:43.474+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:01:43.473+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:01:45.731+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:01:45.743+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:01:45.743+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:01:45.747+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:01:45.747+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:01:45.753+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.294 seconds
+[2026-04-30T19:02:16.096+0000] {processor.py:186} INFO - Started process (PID=592) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:02:16.097+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:02:16.100+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:02:16.099+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:02:18.432+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:02:18.444+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:02:18.444+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:02:18.448+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:02:18.448+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:02:18.453+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.367 seconds
+[2026-04-30T19:02:48.798+0000] {processor.py:186} INFO - Started process (PID=614) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:02:48.800+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:02:48.806+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:02:48.805+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:02:51.063+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:02:51.073+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:02:51.073+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:02:51.077+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:02:51.077+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:02:51.082+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.291 seconds
+[2026-04-30T19:03:21.408+0000] {processor.py:186} INFO - Started process (PID=636) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:03:21.409+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:03:21.412+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:03:21.411+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:03:23.476+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:03:23.485+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:03:23.485+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:03:23.489+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:03:23.489+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:03:23.494+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.093 seconds
+[2026-04-30T19:03:53.783+0000] {processor.py:186} INFO - Started process (PID=658) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:03:53.785+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:03:53.789+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:03:53.789+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:03:55.912+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:03:55.920+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:03:55.920+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:03:55.924+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:03:55.924+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:03:55.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.163 seconds
+[2026-04-30T19:04:26.121+0000] {processor.py:186} INFO - Started process (PID=680) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:04:26.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:04:26.124+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:04:26.124+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:04:27.943+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:04:27.952+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:04:27.952+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:04:27.957+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:04:27.957+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:04:27.963+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.847 seconds
+[2026-04-30T19:04:46.210+0000] {processor.py:186} INFO - Started process (PID=702) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:04:46.211+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:04:46.213+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:04:46.213+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:04:48.605+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:04:48.621+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:04:48.621+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:04:48.632+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:04:48.632+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:04:48.642+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.438 seconds
+[2026-04-30T19:05:18.786+0000] {processor.py:186} INFO - Started process (PID=724) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:05:18.788+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:05:18.791+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:05:18.790+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:05:20.995+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:05:21.004+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:05:21.004+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:05:21.008+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:05:21.008+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:05:21.013+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.236 seconds
+[2026-04-30T19:05:51.312+0000] {processor.py:186} INFO - Started process (PID=746) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:05:51.313+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:05:51.315+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:05:51.315+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:05:53.120+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:05:53.127+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:05:53.127+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:05:53.131+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:05:53.131+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:05:53.137+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.832 seconds
+[2026-04-30T19:06:23.434+0000] {processor.py:186} INFO - Started process (PID=768) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:06:23.435+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:06:23.437+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:06:23.437+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:06:25.405+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:06:25.412+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:06:25.411+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:06:25.416+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:06:25.416+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:06:25.421+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.993 seconds
+[2026-04-30T19:06:55.764+0000] {processor.py:186} INFO - Started process (PID=790) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:06:55.766+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:06:55.769+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:06:55.769+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:06:57.604+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:06:57.613+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:06:57.613+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:06:57.617+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:06:57.617+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:06:57.623+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 1.870 seconds
+[2026-04-30T19:07:27.977+0000] {processor.py:186} INFO - Started process (PID=812) to work on /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:07:27.978+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pinecone_pipeline.py for tasks to queue
+[2026-04-30T19:07:27.979+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:07:27.979+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:07:29.968+0000] {processor.py:925} INFO - DAG(s) 'pinecone_pipeline' retrieved from /opt/airflow/dags/pinecone_pipeline.py
+[2026-04-30T19:07:29.977+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:07:29.976+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2026-04-30T19:07:29.981+0000] {logging_mixin.py:190} INFO - [2026-04-30T19:07:29.981+0000] {dag.py:4156} INFO - Setting next_dagrun for pinecone_pipeline to None, run_after=None
+[2026-04-30T19:07:29.986+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pinecone_pipeline.py took 2.013 seconds
